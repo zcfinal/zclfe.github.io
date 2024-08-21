@@ -9,8 +9,6 @@ redirect_from:
 
 I am currently a joint PhD student at USTC and CityU, supervised by [Prof. Enhong Chen](http://staff.ustc.edu.cn/~cheneh/) at BDAA Lab, [Prof. Tong Xu](http://staff.ustc.edu.cn/~tongxu/) at BDAA Lab, and [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) at AML lab. Prior to starting my doctoral studies, I received my Bachelor degree from Shandong University in 2022, under the supervision of [Prof. Meng Chen](https://faculty.sdu.edu.cn/chenmeng2). 
 
-My detailed Chinese CV is [here](_cv/chinese_resume_20240822.pdf"). My detailed English CV is [here](_cv/chinese_resume_20240822.pdf").
-
 My current research interests include large language models and multimodal recommendation systems.
 
 ## Survey
